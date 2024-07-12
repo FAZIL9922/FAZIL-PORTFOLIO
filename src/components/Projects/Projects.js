@@ -49,7 +49,7 @@ function Projects() {
               imgPath={pizza}
               isTeam="Individual Project"
               title="Pizza Sales Dashboard"
-              description="Developed a pizza sales dashboard by importing the dataset intoMSSQL, conducting SQL queries to create KPIs.Ensured accuracy by comparing visualizations in Power BI withSQL results.Utilized DAX functions to create measures and Power Query toadd columns, enhancing data analysis capabilities. "
+              description="Developed a pizza sales dashboard by importing the dataset into MSSQL, conducting SQL queries to create KPIs. Ensured accuracy by comparing visualizations in Power BI with SQL results. Utilized DAX functions to create measures and Power Query to add columns, enhancing data analysis capabilities. "
               ghLink="https://github.com/FAZIL9922/Pizza_Sales_Dashboard-PowerBi"
               // demoLink="https://quickquiz-bc991.firebaseapp.com/"              
             />
@@ -60,11 +60,7 @@ function Projects() {
               imgPath={Mall}
               isTeam=""
               title="Mall Customer Segmentation"
-              description="Conducted thorough data preprocessing analysis, and visualization.
-              Revealed insights : Women spend more than men despite highermale earnings, 
-              the average customer age is 38, and those withsalaries between 54k and 78k are frequent visitors, 
-              informingtargeted marketing approaches. Implemented K-Means Clustering for customer segmentation,
-              optimizing marketing strategies."
+              description="Conducted thorough data preprocessing analysis, and visualization. Revealed insights : Women spend more than men despite higher male earnings, the average customer age is 38, and those with salaries between 54k and 78k are frequent visitors, informing targeted marketing approaches. Implemented K-Means Clustering for customer segmentation, optimizing marketing strategies."
               ghLink="https://github.com/FAZIL9922/Customer-segmentation"
               // demoLink=""    
             />

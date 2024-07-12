@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/FAZIL-PORTFOLIO/static/css/main.3b46362b.css",
-    "main.js": "/FAZIL-PORTFOLIO/static/js/main.b849c672.js",
+    "main.js": "/FAZIL-PORTFOLIO/static/js/main.2b12b967.js",
     "static/js/415.4d6acbeb.chunk.js": "/FAZIL-PORTFOLIO/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/FAZIL-PORTFOLIO/static/js/787.1ed0c42c.chunk.js",
-    "static/media/fazil.pdf": "/FAZIL-PORTFOLIO/static/media/fazil.a1648e33d7d489d5d7da.pdf",
+    "static/media/fazil.pdf": "/FAZIL-PORTFOLIO/static/media/fazil.3c61fcac3157c1f5ba59.pdf",
     "static/media/mall_cus.png": "/FAZIL-PORTFOLIO/static/media/mall_cus.8060dbf795008e95d656.png",
     "static/media/pizza.png": "/FAZIL-PORTFOLIO/static/media/pizza.8e62d1b3bad51c2a991c.png",
     "static/media/about.png": "/FAZIL-PORTFOLIO/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/walmart.png": "/FAZIL-PORTFOLIO/static/media/walmart.b29de0cd001d6e6ee4c1.png",
     "static/media/To_Do_.png": "/FAZIL-PORTFOLIO/static/media/To_Do_.d4feada49b6ec2a7bee3.png",
     "static/media/portfolio.png": "/FAZIL-PORTFOLIO/static/media/portfolio.15faa102b0c25dcd452b.png",
-    "static/media/CV.pdf": "/FAZIL-PORTFOLIO/static/media/CV.09d9736d6282c357220b.pdf",
+    "static/media/CV.pdf": "/FAZIL-PORTFOLIO/static/media/CV.372fd6335ae541b7a4dd.pdf",
     "static/media/ticketshow.png": "/FAZIL-PORTFOLIO/static/media/ticketshow.961ec7548e5b5e2ca95b.png",
     "static/media/avatar.svg": "/FAZIL-PORTFOLIO/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/FAZIL-PORTFOLIO/static/media/pre.38cae75721118371ec53.svg",
     "index.html": "/FAZIL-PORTFOLIO/index.html",
     "main.3b46362b.css.map": "/FAZIL-PORTFOLIO/static/css/main.3b46362b.css.map",
-    "main.b849c672.js.map": "/FAZIL-PORTFOLIO/static/js/main.b849c672.js.map",
+    "main.2b12b967.js.map": "/FAZIL-PORTFOLIO/static/js/main.2b12b967.js.map",
     "415.4d6acbeb.chunk.js.map": "/FAZIL-PORTFOLIO/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/FAZIL-PORTFOLIO/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b46362b.css",
-    "static/js/main.b849c672.js"
+    "static/js/main.2b12b967.js"
   ]
 }

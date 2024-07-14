@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FAZIL-PORTFOLIO/static/css/main.3b46362b.css",
-    "main.js": "/FAZIL-PORTFOLIO/static/js/main.a9d912ae.js",
+    "main.css": "/FAZIL-PORTFOLIO/static/css/main.2051f10b.css",
+    "main.js": "/FAZIL-PORTFOLIO/static/js/main.cc57aa53.js",
     "static/js/415.4d6acbeb.chunk.js": "/FAZIL-PORTFOLIO/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/FAZIL-PORTFOLIO/static/js/787.1ed0c42c.chunk.js",
     "static/media/fazil.pdf": "/FAZIL-PORTFOLIO/static/media/fazil.3c61fcac3157c1f5ba59.pdf",
@@ -16,13 +16,13 @@
     "static/media/avatar.svg": "/FAZIL-PORTFOLIO/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/FAZIL-PORTFOLIO/static/media/pre.38cae75721118371ec53.svg",
     "index.html": "/FAZIL-PORTFOLIO/index.html",
-    "main.3b46362b.css.map": "/FAZIL-PORTFOLIO/static/css/main.3b46362b.css.map",
-    "main.a9d912ae.js.map": "/FAZIL-PORTFOLIO/static/js/main.a9d912ae.js.map",
+    "main.2051f10b.css.map": "/FAZIL-PORTFOLIO/static/css/main.2051f10b.css.map",
+    "main.cc57aa53.js.map": "/FAZIL-PORTFOLIO/static/js/main.cc57aa53.js.map",
     "415.4d6acbeb.chunk.js.map": "/FAZIL-PORTFOLIO/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/FAZIL-PORTFOLIO/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b46362b.css",
-    "static/js/main.a9d912ae.js"
+    "static/css/main.2051f10b.css",
+    "static/js/main.cc57aa53.js"
   ]
 }

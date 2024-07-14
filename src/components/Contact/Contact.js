@@ -18,7 +18,7 @@ function Contact() {
       <Col md={12} className="contact-social">
         <h1>FIND ME ON</h1>
         <p>
-          Feel free to <span className="orange">connect </span>with me
+          Feel free to <span className="green">connect </span>with me
         </p>
         <ul className="contact-social-links">
 

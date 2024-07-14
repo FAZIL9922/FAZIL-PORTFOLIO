@@ -14,7 +14,7 @@ html {
   --imp-text-color: #00FF00; /*#c770f0;*/
 }
 
-.orange {
+.green {
   color: var(--imp-text-color) !important;
 }
 
@@ -500,6 +500,7 @@ button:focus {
   font-weight: 500 !important;
   padding-top: 10px !important;
 }
+
 
 /* --------- */
 /* Education */

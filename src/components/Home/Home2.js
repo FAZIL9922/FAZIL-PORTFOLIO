@@ -9,7 +9,7 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="orange"> INTRODUCE </span> MYSELF
+              LET ME <span className="green"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
                 I am a passionate Data Scientist and a budding Web Developer. 
@@ -17,31 +17,31 @@ function Home2() {
               <br />
               <br />I have knowledge in Programming languages like
               <i>
-                <b className="orange"> Python. </b>
+                <b className="green"> Python. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="orange">Web Technologies and Products </b> and
+                <b className="green">Web Technologies and Products </b> and
                 also in the field of{" "}
-                <b className="orange">
+                <b className="green">
                   Data Science.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="orange">Flask, Node.js</b> and
+              with <b className="green">Flask, Node.js</b> and
               <i>
-                <b className="orange">
+                <b className="green">
                   {" "}
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="orange"> React.js</b>
+                <b className="green"> React.js</b>
               </i>
             </p>
           </Col>

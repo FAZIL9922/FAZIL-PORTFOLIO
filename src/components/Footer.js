@@ -12,7 +12,7 @@ function Footer() {
           <h3>Developed by Fazil Rahman</h3>
         </Col>
         <Col md="6" className="footer-copywright">
-          <h3><strong className="orange">Copyright © {year}</strong> Fazil</h3>
+          <h3><strong className="green">Copyright © {year}</strong> Fazil</h3>
         </Col>
       </Row>
     </Container>

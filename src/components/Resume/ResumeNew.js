@@ -20,7 +20,7 @@ function ResumeNew() {
       <Container fluid className="resume-section" id="resume">
         <Particle />
         <h1 className="project-heading">
-          My <strong className="orange">Resume </strong>
+          My <strong className="green">Resume </strong>
         </h1>
 
         <Row className="resume">

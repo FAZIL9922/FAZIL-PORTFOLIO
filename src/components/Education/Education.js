@@ -19,30 +19,30 @@ function Education() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              My <strong className="orange">Qualifications</strong>
+              My <strong className="green">Qualifications</strong>
             </h1>
             <Card className="quote-card-view">
               <Card.Body>
                 <blockquote className="blockquote mb-0">
                   <p>
                     Hi Everyone, I am{" "}
-                    <span className="orange">Fazil Rahman Z.</span> from{" "}
-                    <span className="orange">Chennai, Tamil Nadu, India.</span>
+                    <span className="green">Fazil Rahman Z.</span> from{" "}
+                    <span className="green">Chennai, Tamil Nadu, India.</span>
                     <br />
                     <br />
                     I am a graduate with a{" "}
-                    <span className="orange">
+                    <span className="green">
                       B.Tech degree in Computer Science and Engineering
                     </span>{" "}
                     from{" "}
-                    <span className="orange">
+                    <span className="green">
                       B.S. Abdur Rahman Crescent Institute of Science and
                       Technology, Vandalur, Chennai
                     </span>
                     <br />
                     <br />
                     I completed my HSE at{" "}
-                    <span className="orange">
+                    <span className="green">
                       Springfield Matriculation Higher Secondary School, Chennai.
                     </span>
                     <br />
